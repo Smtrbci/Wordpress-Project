@@ -1,0 +1,14 @@
+/*
+Theme Name: ThemeSam
+Theme URI: https://capslockweb.com/
+Author: Samet Arabacı
+Author URI: https://capslockweb.com/
+Description: Deneme Teması
+Version: 1.0
+*/
+
+body {background: #CCC;}
+header {background: #FFF;width:100%;height:120px;}
+footer {background: #222;color:#FFF;}
+.navigation {padding-left:0;list-style:none;padding-top:60px;}
+.navigation li {display:inline;margin-right:20px;}
